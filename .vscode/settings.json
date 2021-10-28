@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/Yug/Unreal Projects/Battle Tank/.vscode": true,
+		"C:/Users/Yug/Unreal Projects/Battle Tank/Content": true,
+		"C:/Users/Yug/Unreal Projects/Battle Tank/DerivedDataCache": true,
+		"C:/Users/Yug/Unreal Projects/Battle Tank/Intermediate": true,
+		"C:/Users/Yug/Unreal Projects/Battle Tank/Saved": true
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
